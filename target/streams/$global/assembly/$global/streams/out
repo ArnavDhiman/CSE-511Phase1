@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0mIncluding from cache: scala-library-2.11.11.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalculate mappings...[0m
+[0m[[0m[0minfo[0m] [0m[0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0m[0minfo[0m] [0m[0mMerging files...[0m
+[0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
+[0m[[0m[33mwarn[0m] [0m[0mStrategy 'discard' was applied to a file[0m
+[0m[[0m[0minfo[0m] [0m[0mAssembly up to date: /media/arnav/Data/Masters/Spring-2020/CSE-511/Projects/Phase1/target/scala-2.11/CSE512-Project-Phase2-Template-assembly-0.1.0.jar[0m
